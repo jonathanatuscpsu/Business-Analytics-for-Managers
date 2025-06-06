@@ -4,9 +4,9 @@ Students will explore key analytics methodologies while addressing real-world ch
 
 ## Course Goals 
 This course aims to help students:
-  1. Identify and apply appropriate analytics models to address specific business problems.
-  2. Build and fit analytics models using relevant data.
-  3. Interpret model outputs and translate them into actionable business insights.
+  1. Understand the role of business analytics in managerial decision-making.
+  2. Develop the ability to translate business problems into analytics tasks.
+  3. Gain hands-on experience with tools and techniques used in data-driven business solutions.
 
 ## Learning Objectives
 By the end of the course, students will be able to:
@@ -26,8 +26,7 @@ By the end of the course, students will be able to:
  <!----Select appropriate analytics models for specific business problems--->
  <!----Develop and fit analytics models using real-world data.--->
  <!----Interpret model outputs and apply them to support decision-making.--->
-
-Use business analytics software and R to generate actionable insights.
+ <!----Use business analytics software and R to generate actionable insights.--->
 
 
 ## Class Information
