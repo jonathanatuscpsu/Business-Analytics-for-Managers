@@ -14,7 +14,6 @@ By the end of the course, students will be able to:
   2. Formulate analytics questions, build and interpret suitable models, analyze data using business analytics tools, and extract meaningful insights.
   3. Demonstrate working proficiency in R for data analysis and business decision-making.
 
-
  <!----Course Goals --->
  <!----This course aims to help students:--->
  <!----Understand the role of business analytics in managerial decision-making.--->
