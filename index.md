@@ -33,9 +33,8 @@ By the end of the course, students will be able to:
   * Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
   * Email: jonathan.fan@scheller.gatech.edu
   * Office Hours: Mondays 1:30-2:30 pm and by appointment
-
-    - Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
-    - Textbook is optional.
+  *  Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
+  * Textbook is optional.
 
 
  * **Cohort from 2026 Spring**
