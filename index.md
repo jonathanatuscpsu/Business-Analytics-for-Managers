@@ -29,7 +29,7 @@ By the end of the course, students will be able to:
 
 
 ## Class Information
-  * Instructor: Zhaohu (Jonathan) Fan, Ph.D.
+  * Instructor: [Zhaohu (Jonathan) Fan](https://www.scheller.gatech.edu/directory/faculty/fan/index.html)**.
   * Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
   * Email: jonathan.fan@scheller.gatech.edu
   * Office Hours: Mondays 1:30-2:30 pm and by appointment
@@ -42,5 +42,7 @@ By the end of the course, students will be able to:
     * Selected Projects
 
 
+---
 
+*Go Jackets! 🐝*
 
